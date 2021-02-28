@@ -7,7 +7,7 @@ But afer that, the box felt very hard, because I fell in many (every one of them
 
 I started by launching nmap, to find out what was running on here :
 
-![nmap.png][https://github.com/Sheldstein/WriteUps/blob/main/Academy/nmap.png]
+![nmap.png](https://github.com/Sheldstein/WriteUps/blob/main/Academy/nmap.png)
 
 We can see that the ssh and http ports are open, and two uncommon ports as well. I'm not sure what's going on here, but there's a good chance mysql is running !
 
